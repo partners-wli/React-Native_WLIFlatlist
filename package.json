@@ -1,7 +1,7 @@
 {
   "name": "react-native-wli-flatlist",
   "title": "React Native Wli Flatlist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -17,7 +17,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/partners-wli/React-Native_WLIFlatlist.git",
-    "baseUrl": "http://github.com/partners-wlis/React-Native_WLIFlatlist"
+    "baseUrl": "http://github.com/partners-wli/React-Native_WLIFlatlist"
   },
   "keywords": [
     "react-native"
@@ -34,7 +34,7 @@
     "react-native": "^0.61.5"
   },
   "bugs": {
-    "url": "https://github.com/github_account/react-native-wli-flatlist/issues"
+    "url": "https://github.com/partners-wli/react-native-wli-flatlist/issues"
   },
-  "homepage": "https://github.com/github_account/react-native-wli-flatlist#readme"
+  "homepage": "https://github.com/partners-wli/react-native-wli-flatlist#readme"
 }
