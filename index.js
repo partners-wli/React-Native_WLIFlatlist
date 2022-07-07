@@ -29,7 +29,6 @@ const WLIFlatList = (props) => {
         ItemSeparatorComponent={props.ItemSeparatorComponent}
         horizontal={props.horizontal}
         numColumns={props.numColumns}
-        pagingEnabled={props.pagingEnabled}
         {...props}
       />
     </>
@@ -56,7 +55,6 @@ WLIFlatList.propTypes = {
   refreshing: PropTypes.bool,
   horizontal: PropTypes.bool,
   numColumns: PropTypes.number,
-  pagingEnabled: PropTypes.bool,
 }
 
 export default WLIFlatList;
